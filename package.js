@@ -12,7 +12,7 @@ Package.describe({
 
 
 Package.registerBuildPlugin({
-  name: 'compile-jsx',
+  name: 'compile-msx',
   sources: [
     'msx-plugin.js'
   ],
